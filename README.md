@@ -25,4 +25,5 @@ I'm a First Class Honours graduate in Science in Computing (Software Development
 ## 📫 Connect with me
 
 LinkedIn: www.linkedin.com/in/sven-sokac 
+
 Portfolio: Coming Soon
