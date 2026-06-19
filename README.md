@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sven 👋
 
-<!--
-**SvenSokac/SvenSokac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a First Class Honours graduate in Science in Computing (Software Development) from the National College of Ireland.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🌱 Currently building my software development portfolio
+- ☕ Interested in Java, Spring Boot and backend development
+- 💻 Also enjoy working with JavaScript, Python and SQL
+- 📚 Always learning new technologies and best practices
+- 🎯 Looking for a Graduate Software Engineer or Junior Software Developer role
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+- Java
+- Spring Boot
+- JavaScript
+- Python
+- SQL
+- PHP
+- HTML/CSS
+- .NET
+- Node.js
+- Git
+
+## 📫 Connect with me
+
+LinkedIn: Coming Soon  
+Portfolio: Coming Soon
